@@ -1,5 +1,5 @@
 # Onboarding-AI 🤖
-This Streamlit application utilizes a generative AI model to facilitate an interactive onboarding process for a company named Amber AI. Users are guided through a series of questions, and their responses are stored in real-time.
+This Streamlit application utilizes GEMINI to facilitate an interactive onboarding process for a company named Amber AI. Users are guided through a series of questions, and their responses are stored in real-time.
 
 ## About Amber AI
 Amber AI is an AI-driven solution enhancing customer success for SMBs, automating workflows, and boosting net revenue retention through personalized interactions and integration with existing CRM systems. https://www.helloamber.ai/
