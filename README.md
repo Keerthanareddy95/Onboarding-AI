@@ -32,3 +32,14 @@ Run the Streamlit application:
 ```bash
 streamlit run app.py
 ```
+![Screenshot 2024-07-02 123027](https://github.com/Keerthanareddy95/Onboarding-AI/assets/123613605/2d91626c-ddc6-4da4-a1b9-e71c8c52f2ad)
+
+![Screenshot 2024-07-02 123044](https://github.com/Keerthanareddy95/Onboarding-AI/assets/123613605/96b58147-ca39-42fe-90e1-f433858ecb49)
+
+![Screenshot 2024-07-02 123100](https://github.com/Keerthanareddy95/Onboarding-AI/assets/123613605/6134dff3-c66c-408f-8183-28609abb7da4)
+
+![Screenshot 2024-07-02 123119](https://github.com/Keerthanareddy95/Onboarding-AI/assets/123613605/858b2198-18ae-4c47-b952-cd3bdc47c7e7)
+
+![Screenshot 2024-07-02 123135](https://github.com/Keerthanareddy95/Onboarding-AI/assets/123613605/5e88f103-e991-48ae-bc0e-3392e4c9bbec)
+
+![Screenshot 2024-07-02 123150](https://github.com/Keerthanareddy95/Onboarding-AI/assets/123613605/f1540572-8fbc-4171-91b6-992c91e0227b)
